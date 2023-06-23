@@ -432,7 +432,7 @@ This example illustrates that each subscriber to an `Observable` has its own ind
 
 This is what output looks like 👇
 
-![Untitled](RXJS%20eb49aca6504a4806b394eb18df3d05f0/Untitled.png)
+![Untitled](assets/Untitled.png)
 
 ### Subject :
 
